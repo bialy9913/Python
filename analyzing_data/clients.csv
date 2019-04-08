@@ -1,0 +1,11 @@
+"NR_KLIENTA","KLIENT_IMIE","KLIENT_NAZWISKO","KLIENT_ADRES","KLIENT_MIASTO","KOD_POCZTOWY","NR_WOJEWODZTWA"
+1,"Rafal","Piotrowski","Konwaliowa 5","Lublin","20-023",3
+2,"Krzysztof","Andersen","Waska 13","Rzeszow","35-032",9
+3,"Marek","Mostowiak","Pilsudskiego 135","Opole","45-016",8
+4,"Dariusz","Michalski","Piekna 21","Lodz","90-019",5
+5,"Barbara","Cichosz","Spokojna 1","Olsztyn","10-015",14
+6,"Teofila","Kowalska","Pospolita 39","Gdansk","80-022",11
+7,"Stanislaw","Szczygiel","Browarna 100","Torun","85-825",2
+8,"Dagmara","Pisklak","Cicha 45","Czestochowa","42-215",12
+9,"Henryk","Gall","Nieznana 99","Katowice","40-014",12
+10,"Lukasz","Stanislaw","Poczatkowa 33","Krasnik","23-200",3
