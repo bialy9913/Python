@@ -1,0 +1,114 @@
+temple
+skron
+pupil
+zrenica
+iris
+teczowka
+palate
+podniebienie
+jaw
+szczeka
+gum
+dziaslo
+sideburns
+bokobrody
+trunk
+tulow
+breasts
+piersi
+navel
+pepek
+armpit
+pacha
+forearm
+przedramie
+hips
+biodra
+perineum
+krocze
+groin
+pachwina
+thigh
+udo
+heel
+pieta
+instep
+podbicie stopy
+bronchial tubes
+oskrzela
+intestines
+jelita
+kidney
+nerka
+testicle
+jadro
+vein
+zyla
+artery
+tetnica
+fatty tissue
+tkanka tluszczowa
+skull
+czaszka
+spine
+kregoslup
+shoulder blade
+lopatka
+pelvis
+miednica
+joint
+staw
+tendon
+sciegno
+taste
+smak
+smell
+wech
+hearing
+sluch
+sight
+wzrok
+touch
+dotyk
+illness
+choroba
+bruise
+stluczenie
+scratch
+zadrapanie
+fracture
+zlamanie
+sedactive
+srodek uspokajajacy
+ointment
+masc
+swab
+wacik
+gauze
+gaza
+adhesive plaster
+plaster
+plaster cast
+gips
+slanting eyes
+skosne oczy
+squinting eyes
+zezowate oczy
+flatnose
+plaski nos
+narrow mouth
+waskie usta
+sticking out ears
+odstajace uszy
+ginger hair
+rude wlosy
+dyed hair
+farbowane wlosy
+bun
+kok
+plait
+warkocz
+parting
+przedzialek
+fringe
+grzywka
